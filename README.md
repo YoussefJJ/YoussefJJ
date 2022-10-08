@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Arabic Sentiment Analysis for Hotel Reviews](https://github.com/YoussefJJ/arabic-sentiment-analysis-for-hotel-reviews)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **React, Angular, JavaScript**
 
